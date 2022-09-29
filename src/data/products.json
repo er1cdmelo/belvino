@@ -1,0 +1,64 @@
+{
+"products": [
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000002824-standing-front.png",
+        "name": "Villa Antinori Rosso Toscana IGT 2018",
+        "price": 56.99
+    },
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000004303-standing-front.png",
+        "name": "Barolo Riva Leone DOCG 2017",
+        "price": 94.90
+    },
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000002509-standing-front.png",
+        "name": "Cesari Recioto della Valpolicella Classico DOCG 2018",
+        "price": 113.90
+    },
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000004253-standing-front.png",
+        "name": "Elvio Cogno Ravera Barolo DOCG 2014",
+        "price": 68.99
+    },
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000005070-standing-front.png",
+        "name": "Badiòla Castello Di Fonterutoli Chianti Classico Gran Selezione DOCG 2018",
+        "price": 125.90
+    },
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000004685-standing-front.png",
+        "name": "Antiche Cantine Dei Marchesi Di Barolo Barbaresco DOCG 2016",
+        "price": 99.90
+    },
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000004359-standing-front.png",
+        "name": "Barolo Chinato Marchesi di Barolo",
+        "price": 169.90
+    },
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000004051-standing-front.png",
+        "name": "Giordano Barolo DOCG 2017",
+        "price": 114.99
+    },
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000005067-standing-front.png",
+        "name": "Cesari Amarone Della Valpolicella Classico DOCG 2016",
+        "price": 223.99
+    },
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000002618-standing-front.png",
+        "name": "Arnaldo Caprai Grecante Colli Martani Grechetto DOC 2019",
+        "price": 149.99
+    },
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000002831-standing-front.png",
+        "name": "Tormaresca Fichi d'India Primitivo Salento IGT 2019",
+        "price": 199.99
+    },
+    {
+        "img": "https://res.cloudinary.com/evino/image/upload/q_auto:good,fl_progressive:steep,f_auto,dpr_1.0,h_480/v1/products/1000002763-standing-front.png",
+        "name": "Mazzei 1435 Toscana 2018",
+        "price": 79.99
+    }
+] 
+}
