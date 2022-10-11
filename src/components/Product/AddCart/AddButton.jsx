@@ -12,7 +12,6 @@ const AddButton = ({ product }) => {
       onClick={() => {
         dispatch(addToCart(product));
         dispatch(message('Added a product to cart', true))
-        console.log(product);
       }}
     >
       <Btn>Add to cart</Btn>

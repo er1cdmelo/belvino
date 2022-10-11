@@ -13,19 +13,17 @@ import { removeCart } from "./store/actions/removeCart";
 
 function App() {
 
-  const result = useSelector(state => state.modalReducer)
+  const cartModal = useSelector(state => state.modalReducer)
   const message = useSelector(state => state.messageReducer)
 
   const [messagesArray, addMessagesArray] = useState([])
 
   useEffect(() => {
-    if(message.message) {
-      console.log(messagesArray)
+    if(message.message && messagesArray) {
       let idArray = messagesArray.length
       addMessagesArray([...messagesArray, <Message msg={message.message} color={message.color} />])
       setTimeout(() => {
         addMessagesArray([...messagesArray.splice(idArray)]);
-        console.log(messagesArray)
       }, 2000)
     }
   }, [message])
@@ -34,7 +32,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Home />
-      {result ? <CartModal /> : null}
+      {cartModal ? <CartModal /> : null}
       {messagesArray.length ? (messagesArray.map(m => m)) : null}
     </div>
   );

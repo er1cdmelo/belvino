@@ -12,8 +12,12 @@ export const Card = styled.div`
     margin: .5em 0;
     padding-top: .8em;
     position: relative;
+    cursor: pointer;
+    transition: .3s;
 
-    
+    &:hover {
+        border: .1em solid #ff5454;
+    }
 
     img {
         max-height: 40%;
